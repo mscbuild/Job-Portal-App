@@ -57,7 +57,9 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 
 ## 📁 Project Structure
 
-### job-portal/ ├── client/ # React + Tailwind frontend │ ├── components/ │ ├── pages/ │ └── ... ├── server/ # Express backend API │ ├── routes/ │ ├── controllers/ │ └── models/ └── README.md
+### job-portal
+~~~bash
+/ ├── client/ # React + Tailwind frontend │ ├── components/ │ ├── pages/ │ └── ... ├── server/ # Express backend API │ ├── routes/ │ ├── controllers/ │ └── models/ └── README.md
 
 ---
 
