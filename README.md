@@ -58,9 +58,23 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 ## 📁 Project Structure
 
 ### job-portal
- 
-/ ├── client/ # React + Tailwind frontend │ ├── components/ │ ├── pages/ │ └── ... ├── server/ # Express backend API │ ├── routes/ │ ├── controllers/ │ └── models/ └── README.md
-
+ ~~~bash
+job-portal/
+├── client/
+│   ├── src/
+│   ├── public/
+│   ├── index.html
+│   ├── vite.config.js
+│   ├── package.json
+│   ├── .env.production
+│   └── vercel.json        ← Add this!
+├── server/
+│   ├── server.js
+│   ├── package.json
+│   └── ...
+├── .gitignore
+└── README.md
+~~~
 ---
 
 
