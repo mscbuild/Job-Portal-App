@@ -64,8 +64,6 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 ---
 
 
----
-
 ## 🔒 Authentication Flow
 
 - **Users register/login with their email and password**
