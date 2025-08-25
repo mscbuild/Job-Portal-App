@@ -136,10 +136,6 @@ npm start
 
 ---
 
-
----
-
-
 ## 🙌 Contributions
 **Feel free to fork the repo, submit issues, or open a pull request.**
 **Suggestions and contributions are always welcome!**
