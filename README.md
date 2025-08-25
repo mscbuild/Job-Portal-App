@@ -81,8 +81,8 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mscbuild/Job-Portal-App.git
-cd Job-Portal-App
+git clone https://github.com/mscbuild/job-portal-app.git
+cd job-portal-app
 ```
 
 ### 2. Setup Environment Variables
