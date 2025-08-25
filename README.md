@@ -9,7 +9,7 @@ A modern, full-stack Job Portal built with the powerful **MERN stack** — enabl
 ### ✅ General
 - 🔐 **Authentication System** — Secure login & registration using JWT
 - 👥 **Role-Based Access** — Separate dashboards for students and recruiters
-- 🌐 **Clean, Responsive UI** — Built with Tailwind CSS & shadcn/ui
+- 🌐 **Clean, Responsive UI** — Built with Tailwind CSS & Shadcn UI
 - 🎯 **Dynamic Routing & State Management** — Smooth navigation across the app
 
 ### 🎓 Student Role
@@ -41,7 +41,7 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 ### 🧑‍💻 Frontend
 - **React.js** – Component-based architecture
 - **Tailwind CSS** – Utility-first CSS for clean, responsive UI
-- **shadcn/ui** – Beautiful, headless UI components
+- **Shadcn UI** – Beautiful, headless UI components
 - **Framer Motion** – Animations and motion effects
 - **React Router** – Client-side routing
 - **Axios** – API communication
@@ -81,8 +81,8 @@ The UI is built with **Tailwind CSS** and enhanced with **shadcn/ui** components
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shubham79a/job-portal.git
-cd job-portal
+git clone https://github.com/mscbuild/Job-Portal-App.git
+cd Job-Portal-App
 ```
 
 ### 2. Setup Environment Variables
@@ -136,10 +136,6 @@ npm start
 
 ---
 
-
-## 👨‍💻 Author
-- **Made with 💙 by Shubham**
-- **🔗 Connect on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-894799290/)
 
 ---
 
