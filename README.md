@@ -67,7 +67,7 @@ job-portal/
 │   ├── vite.config.js
 │   ├── package.json
 │   ├── .env.production
-│   └── vercel.json        ← Add this!
+ 
 ├── server/
 │   ├── server.js
 │   ├── package.json
